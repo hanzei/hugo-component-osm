@@ -1,0 +1,12 @@
+name = "OpenStreetMap"
+license = "MIT"
+licenselink = "https://github.com/Hanzei/hugo-component-osm/blob/master/LICENSE"
+description = " OpenStreetMap shortcode for hugo "
+homepage = "https://github.com/Hanzei/hugo-component-osm/"
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Hanzei"
+  homepage = "http://github.com/Hanzei/"
