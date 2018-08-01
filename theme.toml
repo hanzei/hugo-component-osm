@@ -1,7 +1,7 @@
 name = "OpenStreetMap"
 license = "MIT"
 licenselink = "https://github.com/Hanzei/hugo-component-osm/blob/master/LICENSE"
-description = " OpenStreetMap shortcode for hugo "
+description = " OpenStreetMap shortcode for hugo"
 homepage = "https://github.com/Hanzei/hugo-component-osm/"
 tags = []
 features = []
