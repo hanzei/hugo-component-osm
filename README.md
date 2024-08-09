@@ -40,3 +40,4 @@ Available parameter are:
 - `datalayersControl` (default `true`)
 - `onLoadPanel` (default `none`)
 - `captionBar` (default `true`)
+- `class` (default `null`)
