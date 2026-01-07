@@ -18,13 +18,14 @@ Now you just have to add this theme component to your themes in `config.toml`, e
 
 ## Creating and including a map
 
-First create a map for free on https://umap.openstreetmap.fr/en/. Then include this map by using the `openstreetmap` shortcode, e.g. `{{< openstreetmap mapName="demo-map_1" >}}`
+First create a map for free on umap. With the introduction of parameter `umapURL`, the URL of umap can be adjusted. After the creation, you include this map by using the openstreetmap shortcode, e.g. `{{< openstreetmap mapName="demo-map_1"}}` .
 
 ## Options
 
 The only required parameter is `mapName`. All other parameters are completely optional.
 
 Available parameter are:
+- `umapURL` (default `umap.openstreetmap.fr`)
 - `coordX` (default `auto`)
 - `coordY` (default `auto`)
 - `scale`  (default `auto`)
